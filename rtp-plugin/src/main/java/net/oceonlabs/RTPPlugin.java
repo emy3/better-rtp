@@ -1,8 +1,6 @@
 package net.oceonlabs;
 
-import org.gradle.api.plugins.JavaPlugin;
-
-import static org.gradle.internal.cc.base.LoggingKt.getLogger;
+import org.bukkit.plugin.java.JavaPlugin;
 
 public class RTPPlugin extends JavaPlugin {
     @Override
