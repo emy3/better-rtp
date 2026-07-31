@@ -2,5 +2,5 @@ name: RTPPlugin
 version: '1.0'
 main: net.oceonlabs.rtpplugin.RTPPlugin
 api-version: '1.21'
-author: YourName
+author: emoceon
 description: A random teleport plugin with safe landing detection.
