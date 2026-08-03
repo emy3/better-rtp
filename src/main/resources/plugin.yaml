@@ -4,3 +4,9 @@ main: net.oceonlabs.rtpplugin.RTPPlugin
 api-version: '1.21'
 author: emoceon
 description: A random teleport plugin with safe landing detection.
+
+commands:
+    rtp:
+        description: Teleports the player to a random safe location.
+        usage: /rtp
+        permission: rtpplugin.rtp
